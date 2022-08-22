@@ -1,4 +1,4 @@
-# TurtlePay® Blockchain Cache API
+# traaittCASH® Blockchain Cache API
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/TurtlePay/blockchain-cache-api.svg?branch=master)](https://travis-ci.org/TurtlePay/blockchain-cache-api) [![Build status](https://ci.appveyor.com/api/projects/status/github/TurtlePay/blockchain-cache-api?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-cache-api/branch/master)
@@ -20,13 +20,13 @@ We know that this documentation needs cleaned up and made easier to read. We'll 
 1) Clone this repository to wherever you'd like the API to run:
 
 ```bash
-git clone https://github.com/TurtlePay/blockchain-cache-api
+git clone https://github.com/TRRXITTE/traaittcash-blockchain-cache-api cacheapi
 ```
 
 2) Install the required Node.js modules
 
 ```bash
-cd blockchain-cache-api && npm install
+cd cacheapi && npm install
 ```
 
 3) Use your favorite text editor to change the values as necessary in `config.json`
@@ -68,4 +68,5 @@ pm2 save
 
 See https://docs.turtlepay.io/blockapi/ for the full REST API provided by this package.
 
+###### (c) 2022 TRRXITTE Int., incorporate
 ###### (c) 2018-2019 TurtlePay® Development Team
