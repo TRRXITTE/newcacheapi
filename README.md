@@ -66,7 +66,7 @@ pm2 save
 
 ## API
 
-See https://docs.turtlepay.io/blockapi/ for the full REST API provided by this package.
+See https://documentation.trrxitte.com/cacheapi for the full REST API provided by this package.
 
 ###### (c) 2022 TRRXITTE Int., incorporate
 ###### (c) 2018-2019 TurtlePay® Development Team
