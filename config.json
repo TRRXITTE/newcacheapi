@@ -1,0 +1,22 @@
+{
+  "bindIp": "0.0.0.0",
+  "httpPort": 400,
+  "corsHeader": "*",
+  "coinDecimals": 8,
+  "defaultMixins": 3,
+  "emissionSpeed": 25,
+  "maxSupply": 88744000,
+  "queues": {
+    "relayAgent": "request.network"
+  },
+  "nodeFee": {
+    "address": "",
+    "amount": 0
+  },
+  "blacklistedIps": [],
+  "useCompression": false,
+  "useNodeMonitor": true,
+  "usePoolMonitor": false,
+  "useRedisCache": false,
+  "checkPointsDomain": "checkpoints.traaittCASH.com"
+}
